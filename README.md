@@ -1,4 +1,4 @@
-# kirana-store
+# Grocery superstore
 This is the power bi project on grocery superstore.
 This project focuses on analyzing the sales, inventory, and customer behavior data of a grocery superstore. The data is visualized using Microsoft Power BI, providing interactive reports and dashboards to help stakeholders make informed decisions. The project aims to offer insights into product performance, sales trends, and customer purchasing patterns to enhance operational efficiency and drive sales growth.
 
